@@ -1,4 +1,4 @@
-Opencart2 SpicePay Module
+# Opencart2 SpicePay Module
 
 Important: Module works with Opencart 2.0.x - 2.2.x. Is not compartible with Opencart 2.3.x.
 
